@@ -7,6 +7,12 @@ My expertise in UX, performance, and scalability has enabled me to simplify comp
 I have a proven track record of participating in discovery phases and project kick-offs, providing technical knowledge and strategies to ensure seamless experiences across multiple platforms. I have also worked on-site with clients, delivering technical guidance and direction to ensure project success.
 
 
+## Contact details
+
+- Email: [juansaissac@gmail.com](mailto:juansaissac@gmail.com)
+- GitHub: [github.com/saissaken](https://github.com/saissaken)
+- LinkedIn: [jsaissac](https://www.linkedin.com/in/jsaissac/)
+
 ## 👨🏻‍💻 Tech skills
 
 I'm lately working with:
